@@ -6,7 +6,7 @@ public class CarroTeste {
     public static void main(String[] args) {
         Carro carro1 = new Carro();
         carro1.nome = ("Fusca");
-        carro1.modelo = ("Retrõ");
+        carro1.modelo = ("Retrô");
         carro1.ano = 1985;
 
        Carro carro2 = new Carro();
